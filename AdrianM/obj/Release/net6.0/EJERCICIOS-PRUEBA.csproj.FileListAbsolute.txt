@@ -1,0 +1,15 @@
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\bin\Release\net6.0\EJERCICIOS-PRUEBA.exe
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\bin\Release\net6.0\EJERCICIOS-PRUEBA.deps.json
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\bin\Release\net6.0\EJERCICIOS-PRUEBA.runtimeconfig.json
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\bin\Release\net6.0\EJERCICIOS-PRUEBA.dll
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\bin\Release\net6.0\EJERCICIOS-PRUEBA.pdb
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.csproj.AssemblyReference.cache
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.AssemblyInfoInputs.cache
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.AssemblyInfo.cs
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.dll
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\refint\EJERCICIOS-PRUEBA.dll
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.pdb
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\EJERCICIOS-PRUEBA.genruntimeconfig.cache
+C:\Users\barce\source\repos\EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA\obj\Release\net6.0\ref\EJERCICIOS-PRUEBA.dll

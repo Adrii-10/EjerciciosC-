@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICIOS-PRUEBA", "EJERCICIOS-PRUEBA\EJERCICIOS-PRUEBA.csproj", "{29DF8CAA-0713-4935-B0B1-B87BCB07A755}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intermedio", "Intermedio", "{E87EA1D7-343A-40AC-9CCD-852EC6091D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intermedio", "Intermedio\Intermedio.csproj", "{3523AC78-EEFA-4422-A061-C6EB5A1C7252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29DF8CAA-0713-4935-B0B1-B87BCB07A755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DF8CAA-0713-4935-B0B1-B87BCB07A755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DF8CAA-0713-4935-B0B1-B87BCB07A755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DF8CAA-0713-4935-B0B1-B87BCB07A755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3523AC78-EEFA-4422-A061-C6EB5A1C7252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3523AC78-EEFA-4422-A061-C6EB5A1C7252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3523AC78-EEFA-4422-A061-C6EB5A1C7252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3523AC78-EEFA-4422-A061-C6EB5A1C7252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3523AC78-EEFA-4422-A061-C6EB5A1C7252} = {E87EA1D7-343A-40AC-9CCD-852EC6091D2C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F9026E-6A38-457A-ACFA-73A237C67706}
+	EndGlobalSection
+EndGlobal
